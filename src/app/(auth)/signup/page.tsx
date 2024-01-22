@@ -22,7 +22,7 @@ import Logo from '../../../../public/cypresslogo.svg';
 import Loader from '@/components/global/Loader';
 import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert';
 import { MailCheck } from 'lucide-react';
-import { FormSchema } from '@/lib/types';
+import { FormSchema } from '../../../lib/types';
 import { actionSignUpUser } from '@/src/lib/server-actions/auth-actions';
 
 const SignUpFormSchema = z
