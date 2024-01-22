@@ -1,0 +1,55 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704013685816,
+      "tag": "0000_even_dormammu",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704013911623,
+      "tag": "0001_next_nomad",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1704099573829,
+      "tag": "0002_futuristic_mephistopheles",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1704099746624,
+      "tag": "0003_cultured_absorbing_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1704099812680,
+      "tag": "0004_glamorous_captain_cross",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1704270668854,
+      "tag": "0005_gigantic_mentallo",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1705138903651,
+      "tag": "0006_military_doctor_spectrum",
+      "breakpoints": true
+    }
+  ]
+}
