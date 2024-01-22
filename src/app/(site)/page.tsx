@@ -3,7 +3,7 @@ import React from "react";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
 import Banner from "../../../public/appBanner.png";
-import Cal from "../../../public/Cal.png";
+import Cal from "../../../public/cal.png";
 import { CLIENTS, PRICING_CARDS, PRICING_PLANS, USERS } from "@/src/lib/constants";
 import { randomUUID } from "crypto";
 import { twMerge } from "tailwind-merge";
@@ -14,7 +14,7 @@ import { CardContent, CardDescription, CardTitle } from "@/components/ui/card";
 import Diamond from '../../../public/icons/diamond.svg';
 import CheckIcon from '../../../public/icons/check.svg';
 
-
+//lkjdfkljdflkdj
 const HomePage = () => {
   return (
     <>
